@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "651465ef007356353d7d1560"
+  },
+  "ngaylap": {
+    "$date": "2023-09-27T17:27:11.639Z"
+  },
+  "khachhang": {
+    "tenkh": "Hoa",
+    "sdt": "123"
+  },
+  "detail": [
+    {
+      "tenmon": "Cà Phê Sữa",
+      "soluong": 1,
+      "dongia": 20000
+    },
+    {
+      "tenmon": "Cà Phê Đen",
+      "soluong": 1,
+      "dongia": 15000
+    }
+  ],
+  "tennv": "hoa",
+  "thanhtien": 35000
+}]

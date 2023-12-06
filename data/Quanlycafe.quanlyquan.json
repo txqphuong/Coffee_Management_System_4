@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "6514653065ec6b21a8158e40"
+  },
+  "mon": [
+    {
+      "_id": "m01",
+      "tenmon": "Cà Phê Sữa",
+      "gia": 20000,
+      "anh": "E:\\Nam 4\\NoSQL\\Nhom_07\\WindowsFormsApp4\\WindowsFormsApp4\\Anh\\a1.png"
+    },
+    {
+      "_id": "m02",
+      "tenmon": "Cà Phê Đen",
+      "gia": 15000,
+      "anh": "E:\\Nam 4\\NoSQL\\Nhom_07\\WindowsFormsApp4\\WindowsFormsApp4\\Anh\\a3.png"
+    },
+    {
+      "_id": "m03",
+      "tenmon": "Trà Sữa Phúc Long",
+      "gia": 25000,
+      "anh": "E:\\Nam 4\\NoSQL\\Nhom_07\\WindowsFormsApp4\\WindowsFormsApp4\\Anh\\a2.png"
+    },
+    {
+      "_id": "m04",
+      "tenmon": "Cà Phê Đá Xay",
+      "gia": 450000,
+      "anh": "E:\\Nam 4\\NoSQL\\Nhom_07\\WindowsFormsApp4\\WindowsFormsApp4\\Anh\\a4.png"
+    },
+    {
+      "_id": "m05",
+      "tenmon": "Trà Vải Sen",
+      "gia": 50000,
+      "anh": "E:\\Nam 4\\NoSQL\\Nhom_07\\WindowsFormsApp4\\WindowsFormsApp4\\Anh\\a5.jpg"
+    },
+    {
+      "_id": "m06",
+      "tenmon": "Trà Lài Đác Thơm",
+      "gia": 50000,
+      "anh": "E:\\Nam 4\\NoSQL\\Nhom_07\\WindowsFormsApp4\\WindowsFormsApp4\\Anh\\a7.png"
+    },
+    {
+      "_id": "m07",
+      "tenmon": "Hồng Trà Đào",
+      "gia": 52000,
+      "anh": "E:\\Nam 4\\NoSQL\\Nhom_07\\WindowsFormsApp4\\WindowsFormsApp4\\Anh\\a8.png"
+    },
+    {
+      "_id": "m08",
+      "tenmon": "Matcha Đá Xay",
+      "gia": 55000,
+      "anh": "E:\\Nam 4\\NoSQL\\Nhom_07\\WindowsFormsApp4\\WindowsFormsApp4\\Anh\\a9.png"
+    },
+    {
+      "_id": "m09",
+      "tenmon": "Sữa Chua Phúc Bồn Tử Đác Cam",
+      "gia": 70000,
+      "anh": "E:\\Nam 4\\NoSQL\\Nhom_07\\WindowsFormsApp4\\WindowsFormsApp4\\Anh\\a10.png"
+    },
+    {
+      "_id": "m010",
+      "tenmon": "Trà Tranh",
+      "gia": 40000,
+      "anh": "E:\\Nam 4\\NoSQL\\Nhom_07\\WindowsFormsApp4\\WindowsFormsApp4\\Anh\\a11.png"
+    }
+  ],
+  "nhanvien": [
+    {
+      "_id": "nv01",
+      "ten": "Nguyễn Minh Hòa",
+      "chucvu": "Thu Ngân",
+      "diachi": "Hồ Chí Minh",
+      "sdt": "035803490"
+    },
+    {
+      "_id": "nv02",
+      "ten": "Từ Tiền Giang",
+      "chucvu": "Quản Lý Kho",
+      "diachi": "Hồ Chí Minh",
+      "sdt": "0369478274"
+    }
+  ],
+  "nguoidung": [
+    {
+      "tendn": "hoa",
+      "pass": "1",
+      "_id": "nv01"
+    },
+    {
+      "tendn": "giang",
+      "pass": "1",
+      "_id": "nv02"
+    }
+  ]
+}]
